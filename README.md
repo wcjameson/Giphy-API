@@ -1,4 +1,4 @@
-# (Application Name)
+# GIPHY
 
 #### (Brief Description of Application)
 
